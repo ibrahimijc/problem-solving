@@ -1,3 +1,8 @@
+/**
+ * Reference to Problem 
+ * https://www.hackerrank.com/challenges/diagonal-difference/problem
+ */
+
 function diagonalDifference(arr) {
     // Write your code here
     let leftDiagnolSum=0,rightDiagnolSum=0;
